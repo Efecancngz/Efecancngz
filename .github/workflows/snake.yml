@@ -1,11 +1,11 @@
 name: Generate Snake
 
 on:
-  # Her 24 saatte bir otomatik çalıştır
+  # Her gece yarısı otomatik çalışır
   schedule:
     - cron: "0 0 * * *" 
   
-  # İstersen manuel de çalıştırabilmen için
+  # Manuel çalıştırma butonu için
   workflow_dispatch:
 
 jobs:
@@ -19,7 +19,7 @@ jobs:
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
-          # Senin kullanıcı adın
+          # Kullanıcı adın buraya otomatik gelir
           github_user_name: Efecancngz
           outputs: |
             dist/github-contribution-grid-snake.svg
@@ -28,9 +28,9 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Push to the output branch
-        uses: crazy-max/gh-action-github-pages@v2.5.0
+        # DÜZELTME: Daha güvenilir olan peaceiris aracını kullanıyoruz
+        uses: peaceiris/actions-gh-pages@v3
         with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: output
+          publish_dir: dist

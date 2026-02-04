@@ -84,3 +84,7 @@
     <img src="https://img.shields.io/badge/Send_an_Email-red?style=for-the-badge&logo=gmail" />
   </a>
 </div>
+<h3 align="center">🐍 My Contribution Snake</h3>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Efecancngz/Efecancngz/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</div>

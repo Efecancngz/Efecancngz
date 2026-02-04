@@ -77,6 +77,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Efecancngz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000" height="160" alt="stats" />
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Efecancngz&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000" height="160" alt="languages" />
 </div>
 <br/>

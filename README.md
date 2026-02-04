@@ -19,7 +19,15 @@
 
 <h3 align="center">🏆 Achievements</h3>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Efecancngz&theme=radical&no-frame=true&column=4&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Efecancngz&theme=radical&no-frame=true&column=4&margin-w=15&margin-h=15" alt="Trophies" />
+</div>
+
+<br/>
+
+<h3 align="center">📊 GitHub Stats</h3>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Efecancngz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000" height="160" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Efecancngz&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000" height="160" alt="languages" />
 </div>
 
 <br/>

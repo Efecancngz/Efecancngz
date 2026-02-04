@@ -17,6 +17,13 @@
 
 <br/>
 
+<h3 align="center">🏆 Achievements</h3>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Efecancngz&theme=radical&no-frame=true&column=4&margin-w=15&margin-h=15" />
+</div>
+
+<br/>
+
 <h3 align="center">🛠️ Tech Arsenal</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -33,14 +40,13 @@
 <br/>
 
 <h3>🚀 Featured Deployments</h3>
-
 <table>
   <tr>
     <td width="50%">
       <h3 align="center">🤖 Akakce Testing Suite</h3>
       <div align="center">
         <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="100%" alt="Bot Animation"/>
-        </div>
+      </div>
       <br/>
       An autonomous <b>QA System</b> operating on a live production environment.
       <br/><br/>
@@ -54,7 +60,7 @@
       <h3 align="center">📱 Nexus Remote Center</h3>
       <div align="center">
          <img src="https://media.giphy.com/media/TprdXWd1uQxsQ/giphy.gif" width="100%" alt="Tech Animation"/>
-         </div>
+      </div>
       <br/>
       Full-stack ecosystem transforming mobile devices into <b>AI Command Centers</b>.
       <br/><br/>
@@ -73,6 +79,17 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Efecancngz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000" height="160" alt="stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Efecancngz&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000" height="160" alt="languages" />
 </div>
+<br/>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Efecancngz&theme=tokyonight&hide_border=true" alt="Streak" />
+</div>
+
+<br/>
+
+<h3 align="center">🐍 Contribution Snake</h3>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Efecancngz/Efecancngz/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</div>
 
 <br/>
 
@@ -83,8 +100,4 @@
   <a href="mailto:efecancengiz1234@gmail.com">
     <img src="https://img.shields.io/badge/Send_an_Email-red?style=for-the-badge&logo=gmail" />
   </a>
-</div>
-<h3 align="center">🐍 My Contribution Snake</h3>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Efecancngz/Efecancngz/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </div>

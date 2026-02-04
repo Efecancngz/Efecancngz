@@ -17,6 +17,12 @@
 
 <br/>
 
+<h3 align="center">🏆 GitHub Trophies</h3>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Efecancngz&theme=radical&no-frame=true&column=4&margin-w=15&margin-h=15" />
+</div>
+<br/>
+
 <h3 align="center">🛠️ Tech Arsenal</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />

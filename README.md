@@ -8,7 +8,7 @@
 {
   "role": "Software Engineering student @ Yaşar University",
   "based_in": "İzmir, Turkey",
-  "focus": ["backend systems", "test automation", "AI-integrated apps"],
+  "focus": ["backend systems", "automation systems", "test automation", "AI-integrated apps"],
   "currently": "building Product-Locator's AI matching layer, learning Rasa for a home-assistant capstone project"
 }
 ```

@@ -1,6 +1,6 @@
 <div align="center">
 
-# Efecan Cengiz
+<img src="https://socialify.git.ci/Efecancngz/Efecancngz/image?font=Inter&logo=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F114405290%3Fv%3D4&name=1&owner=0&pattern=Plus&theme=Dark" width="100%" alt="Efecan Cengiz" />
 
 Software Engineering student focused on backend systems, test automation, and AI-integrated applications.
 
@@ -22,32 +22,55 @@ Software Engineering student focused on backend systems, test automation, and AI
 
 ### Featured Projects
 
-**[ScreenTracker](https://github.com/Efecancngz/ScreenTracker)**
+<table>
+<tr>
+<td width="50%">
+
+<a href="https://github.com/Efecancngz/ScreenTracker"><img src="https://socialify.git.ci/Efecancngz/ScreenTracker/image?font=Inter&language=1&name=1&owner=0&pattern=Plus&theme=Dark" width="100%" alt="ScreenTracker"/></a>
+
 Real-time screen capture and telemetry pipeline built for low-latency streaming between devices. Thread-safe, modular capture/compute separation.
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
-**[Product-Locator](https://github.com/Efecancngz/Product-Locator)**
+</td>
+<td width="50%">
+
+<a href="https://github.com/Efecancngz/Product-Locator"><img src="https://socialify.git.ci/Efecancngz/Product-Locator/image?font=Inter&language=1&name=1&owner=0&pattern=Plus&theme=Dark" width="100%" alt="Product-Locator"/></a>
+
 Full-stack platform tracking real-time store inventory across Turkish retailers, combining scraping, an AI-assisted matching layer, and a live dashboard.
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 
-**[testcrafter](https://github.com/Efecancngz/testcrafter)**
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+<a href="https://github.com/Efecancngz/testcrafter"><img src="https://socialify.git.ci/Efecancngz/testcrafter/image?font=Inter&language=1&name=1&owner=0&pattern=Plus&theme=Dark" width="100%" alt="testcrafter"/></a>
+
 AI-assisted test scenario generator paired with a Playwright execution runner, turning natural-language specs into runnable end-to-end tests.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 
-**[Nexus Remote Command Center](https://github.com/Efecancngz/nexus_remoter)**
+</td>
+<td width="50%">
+
+<a href="https://github.com/Efecancngz/nexus_remoter"><img src="https://socialify.git.ci/Efecancngz/nexus_remoter/image?font=Inter&language=1&name=1&owner=0&pattern=Plus&theme=Dark" width="100%" alt="Nexus Remote Command Center"/></a>
+
 Full-stack ecosystem turning a mobile device into a PC command center — Dockerized backend agent, PIN-authenticated local network communication.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-**[University Project Dashboard](https://github.com/Efecancngz/university-project-dashboard)** — *team project*
+</td>
+</tr>
+</table>
+
+<a href="https://github.com/Efecancngz/university-project-dashboard"><img src="https://socialify.git.ci/Efecancngz/university-project-dashboard/image?font=Inter&language=1&name=1&owner=0&pattern=Plus&theme=Dark" width="100%" alt="University Project Dashboard"/></a>
+
+**University Project Dashboard** — *team project*
 Dashboard for managing student team projects and advisor evaluations. Full-stack contributor within a 4-person team; owned documentation and architecture diagrams.
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 

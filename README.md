@@ -111,10 +111,3 @@ Dashboard for managing student team projects and advisor evaluations. Full-stack
 
 B.S. Software Engineering, Yaşar University — expected June 2027
 Coursework: Software Design & Architecture, Software Quality Assurance & Testing, Mobile Robotics, Operating Systems & Networks, Database Management Systems, Algorithm Analysis & Design, Software Construction
-
----
-
-<div align="center">
-  <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=Efecancngz&show_icons=true&hide_border=true&theme=tokyonight&hide_title=true" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=Efecancngz&layout=compact&hide_border=true&theme=tokyonight" height="165" alt="Top languages" />
-</div>

@@ -1,100 +1,61 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="200" style="object-fit:cover; border-radius: 10px;" />
-  
-  <h1 align="center">Hi there, I'm Efecan! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
+# Efecan Cengiz
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Software+Engineer;AI+%26+Automation+Expert;Docker+%7C+Python+%7C+Java;Building+Smart+Systems" alt="Typing SVG" />
-  </a>
-</div>
+Software Engineering student focused on backend systems, test automation, and AI-integrated applications.
 
-<br/>
+İzmir, Turkey · [LinkedIn](https://linkedin.com/in/efecancengiz) · [Email](mailto:efecancengiz1234@gmail.com)
 
-<div align="center">
-  Currently studying <b>Software Engineering</b> at Yasar University. <br/> 
-  I don't just write code; I build <b>autonomous systems</b> that live on the web and local networks.
-</div>
+---
 
-<br/>
+### Focus
 
+- Backend architecture & containerized services — Python, Java, Docker
+- Test automation & QA engineering — Selenium, Playwright, IEEE 29119
+- AI-integrated application development
 
-<br/>
+---
 
-<h3 align="center">🛠️ Tech Arsenal</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <br/>
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
-</div>
+### Featured Projects
 
-<br/>
+**[ScreenTracker](https://github.com/Efecancngz/ScreenTracker)**
+Real-time screen capture and telemetry pipeline built for low-latency streaming between devices. Thread-safe, modular capture/compute separation.
+`C++` `Python` `OpenCV` `Multithreading`
 
-<h3>🚀 Featured Deployments</h3>
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🤖 Akakce Testing Suite</h3>
-      <div align="center">
-        <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="100%" alt="Bot Animation"/>
-      </div>
-      <br/>
-      An autonomous <b>QA System</b> operating on a live production environment.
-      <br/><br/>
-      Testing <b>45 scenarios</b> with a 95.5% success rate. Built with <code>Java</code> & <code>Selenium</code>.
-      <br/><br/>
-      <a href="https://github.com/Efecancngz/Website-Testing-Example-Bot">
-        <img src="https://img.shields.io/badge/View_Code-black?style=flat-square&logo=github"/>
-      </a>
-    </td>
-    <td width="50%">
-      <h3 align="center">📱 Nexus Remote Center</h3>
-      <div align="center">
-         <img src="https://media.giphy.com/media/TprdXWd1uQxsQ/giphy.gif" width="100%" alt="Tech Animation"/>
-      </div>
-      <br/>
-      Full-stack ecosystem transforming mobile devices into <b>AI Command Centers</b>.
-      <br/><br/>
-      Features <b>Dockerized</b> deployment and custom PIN security. Built with <code>Python</code> & <code>React</code>.
-      <br/><br/>
-      <a href="https://github.com/Efecancngz/nexus_remoter">
-        <img src="https://img.shields.io/badge/View_Code-black?style=flat-square&logo=github"/>
-      </a>
-    </td>
-  </tr>
-</table>
+**[Product-Locator](https://github.com/Efecancngz/Product-Locator)**
+Full-stack platform tracking real-time store inventory across Turkish retailers, combining scraping, an AI-assisted matching layer, and a live dashboard.
+`FastAPI` `React` `Playwright` `Gemini AI`
 
-<br/>
+**[testcrafter](https://github.com/Efecancngz/testcrafter)**
+AI-assisted test scenario generator paired with a Playwright execution runner, turning natural-language specs into runnable end-to-end tests.
+`Python` `Playwright` `AI`
+
+**[Nexus Remote Command Center](https://github.com/Efecancngz/nexus_remoter)**
+Full-stack ecosystem turning a mobile device into a PC command center — Dockerized backend agent, PIN-authenticated local network communication.
+`Python` `React` `Flask` `Docker`
+
+**[University Project Dashboard](https://github.com/Efecancngz/university-project-dashboard)** — *team project*
+Dashboard for managing student team projects and advisor evaluations. Full-stack contributor within a 4-person team; owned documentation and architecture diagrams.
+`Java`
+
+---
+
+### Skills
+
+**Languages** — Java, C/C++, C#, Python, JavaScript, SQL
+**Backend & Web** — React, FastAPI, Flask, .NET, Node.js, REST APIs
+**QA & Testing** — Selenium WebDriver, Playwright, JUnit 5, TDD, Postman
+**DevOps & Tools** — Docker, Git, CI/CD, Linux, Swagger/OpenAPI
+**Practices** — SOLID, Design Patterns, Clean Code, IEEE 29119
+
+---
+
+### Education
+
+B.S. Software Engineering, Yaşar University — expected June 2027
+Coursework: Software Design & Architecture, Software Quality Assurance & Testing, Mobile Robotics, Operating Systems & Networks, Database Management Systems, Algorithm Analysis & Design, Software Construction
+
+---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Efecancngz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000" height="160" alt="stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Efecancngz&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000" height="160" alt="languages" />
-</div>
-<br/>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Efecancngz&theme=tokyonight&hide_border=true" alt="Streak" />
-</div>
-
-<br/>
-
-<h3 align="center">🐍 Contribution Snake</h3>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Efecancngz/Efecancngz/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://linkedin.com/in/efecancengiz">
-    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:efecancengiz1234@gmail.com">
-    <img src="https://img.shields.io/badge/Send_an_Email-red?style=for-the-badge&logo=gmail" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Efecancngz&show_icons=true&hide_border=true&theme=github_dark_dimmed&hide_title=true" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Efecancngz&layout=compact&hide_border=true&theme=github_dark_dimmed" height="165" alt="Top languages" />
 </div>

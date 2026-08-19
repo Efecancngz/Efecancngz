@@ -53,7 +53,7 @@ Full-stack ecosystem turning a mobile device into a PC command center — Docker
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 **[University Project Dashboard](https://github.com/Efecancngz/university-project-dashboard)** — *team project*
-Dashboard for managing student team projects and advisor evaluations. Full-stack contributor within a 4-person team; owned documentation and architecture diagrams.
+Dashboard for managing student team projects and advisor evaluations.  I served as a full-stack developer on two teams of 8–9 people each; owned documentation and architecture diagrams.
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
 ---

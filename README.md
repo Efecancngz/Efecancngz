@@ -115,6 +115,6 @@ Coursework: Software Design & Architecture, Software Quality Assurance & Testing
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Efecancngz&show_icons=true&hide_border=true&theme=tokyonight&hide_title=true" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Efecancngz&layout=compact&hide_border=true&theme=tokyonight" height="165" alt="Top languages" />
+  <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=Efecancngz&show_icons=true&hide_border=true&theme=tokyonight&hide_title=true" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=Efecancngz&layout=compact&hide_border=true&theme=tokyonight" height="165" alt="Top languages" />
 </div>

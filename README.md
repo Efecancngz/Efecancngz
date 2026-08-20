@@ -28,9 +28,10 @@ I like building things that actually run somewhere — containerized backend ser
 ### Featured Projects
 
 **[ScreenTracker](https://github.com/Efecancngz/ScreenTracker)**
-Real-time screen capture and telemetry pipeline built for low-latency streaming between devices. Thread-safe, modular capture/compute separation.
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+WebRTC-based open-source screen viewing between your own devices, over the internet, from any OS host to any browser viewer.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
 **[Product-Locator](https://github.com/Efecancngz/Product-Locator)**
